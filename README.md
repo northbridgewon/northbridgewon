@@ -1,4 +1,4 @@
-### Hi there 👋
+### 您好, Здравствуйте, Bonjour, Hallo, שלום
 
 <!--
 **northbridgeone/northbridgeone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
