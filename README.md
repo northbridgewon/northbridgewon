@@ -1,4 +1,6 @@
-### 您好, Здравствуйте, Bonjour, Hallo, שלום
+### 您好, नमस्ते, Здравствуйте, Bonjour, Hallo, Hola, שלום
+> "Bob Ross-senpai, am I one of your happy little accidents?"- Donald Trump
+
 
 <!--
 **northbridgeone/northbridgeone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
