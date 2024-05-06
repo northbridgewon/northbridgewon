@@ -1,5 +1,4 @@
 ### 您好, नमस्ते, Здравствуйте, Bonjour, Hallo, Hola, שלום ✌️
-> *"Bob Ross-senpai, am I one of your happy little accidents?"* - Donald Tromp
 ```
 {
   "firstName": "Æx",
