@@ -4,8 +4,9 @@
   "firstName": "Ak", 
   "lastName": "Lin Curtek", 
   "middleName": "Yair", 
-  "birthYear": "MCMXCVIII",
-  "knownLanguages": "GOLANG", "SWIFT", "RUST", "X86ASEMBLY"
+  "birthYear": "MM",
+  "knownLanguages": "GOLANG", "SWIFT", "RUST", "JAVASCRIPT",  "X86ASEMBLY",
+  "activeSkillset": "LINUX SERVER ADMINISTRATION"
 }
 ```
 
