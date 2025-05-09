@@ -10,4 +10,4 @@
 }
 ```
 
-![Art](bg.png)
+![Art](bg.jpeg)
